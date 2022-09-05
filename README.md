@@ -6,5 +6,5 @@ Projeto de um sistema full stack
 - Gustavo fernandes
 - Fernando alexandre
 - Arthur marcio
-## Tema do Projeto
-Descrever o tema do projeto
+## Fisica
+Vamos fazer um site que abordará a física como um todo, falando sobre seus conceitos, formulas, físicos importantes e suas teorias/teses
